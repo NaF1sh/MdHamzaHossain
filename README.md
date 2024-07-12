@@ -1,14 +1,16 @@
 <h1 align=center> <b>Hamza Hossain</b> </h1>
 
->An aspiring CSE undergrad!\
+
+An aspiring CSE undergrad!\
 I am proficient in [Typescript](https://www.typescriptlang.org/) for development.\
 I also use __C++__ and at times __Python__ for *competitive programming*.
 
-# `Contact Me`
->- <b>Facebook: [hamza.hossain.fb](https://www.facebook.com/hamza.hossain.fb/)
->- Discord: [hamzahossain](https://discord.com/users/953557729413333002)
->- Email: <a href="mailto@hamzahossaincollege@gmail.com">hamzahossaincollege@gmail.com</a> </b>
 
+# `Contact Me`
+- <b>Facebook: [hamza.hossain.fb](https://www.facebook.com/hamza.hossain.fb/)
+- Discord: [hamzahossain](https://discord.com/users/953557729413333002)
+- Email: <a href="mailto@hamzahossaincollege@gmail.com">hamzahossaincollege@gmail.com</a> </b>
+> Feel free to contact me at any time!
 # `Some Stats`
 <picture>
   <source
