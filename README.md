@@ -25,14 +25,14 @@ I also use __C++__ and at times __Python__ for *competitive programming*.
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=monokai&show_icons=true&hide_border=false&layout=donut&border_radius=23"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=monokai&show_icons=true&hide_border=false&layout=donut&border_radius=23&langs_count=50"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=gruvbox_light&show_icons=true&hide_border=false&layout=donut&border_radius=23"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=gruvbox_light&show_icons=true&hide_border=false&layout=donut&border_radius=23&langs_count=50"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=gruvbox_light&show_icons=true&hide_border=false&layout=donut&border_radius=23" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=gruvbox_light&show_icons=true&hide_border=false&layout=donut&border_radius=23&langs_count=50" />
 </picture>
 
 
