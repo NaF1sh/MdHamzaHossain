@@ -9,7 +9,7 @@ I also use __C++__ and at times __Python__ for *competitive programming*.
 # `Contact Me`
 - <b>Facebook: [hamza.hossain.fb](https://www.facebook.com/hamza.hossain.fb/)
 - Discord: [hamzahossain](https://discord.com/users/953557729413333002)
-- Email: <a href="mailto@hamzahossaincollege@gmail.com">hamzahossaincollege@gmail.com</a> </b>
+- Email: <a href="mailto@hamzahossainphone@gmail.com">hamzahossainphone@gmail.com</a> </b>
 > Feel free to contact me at any time!
 # `Some Stats`
 <picture>
